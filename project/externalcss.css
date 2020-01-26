@@ -1,0 +1,164 @@
+#head
+{
+	font-size: 50px;
+	color: red;
+	text-align: left;
+	text-shadow: 3px 2px blue;
+	
+}
+#head1
+{
+	transform: rotate(-90deg);
+	position: fixed;
+    top: 19;
+    left: 310;
+    font-size: 30px;
+	color: red;
+	text-align: left;
+	text-shadow: 3px 2px blue;
+}
+#headimage
+{
+	position: fixed;
+	top: 19;
+	left: 350;
+}
+#loginimage
+{
+	position: fixed;
+	top: 6;
+	right: 6;
+}
+#logform
+{
+  background-color: lightgrey;
+  width: 300px;
+  border: 5px solid black;
+  padding: 50px;
+  margin-top: 30px;
+  margin-left: 450px;
+}
+input
+{
+	height: 50px;
+}
+input.abc
+{
+background-color: lightgrey;	
+}
+#car1
+{
+	font-size: 50px;
+	color: red;
+	width: 400px;
+	position: fixed;
+	top: 200px;
+	text-align: center;
+	border: 5px solid black;
+	padding: 10px;
+	margin: 20px;
+}
+#car2
+{
+	font-size: 50px;
+	color: red;
+	width: 400px;
+	position: fixed;
+	top: 200px;
+	right: 450px;
+	text-align: center;
+	border: 5px solid black;
+	padding: 10px;
+	margin: 20px;
+}
+#car3
+{
+	font-size: 50px;
+	color: red;
+	width: 400px;
+	position: fixed;
+	top: 200px;
+	right: 10px;
+	text-align: center;
+	border: 5px solid black;
+	padding: 10px;
+	margin: 20px;
+}
+#tagline
+{
+	font-size: 20px;
+	position: fixed;
+    top: 52;
+    left: 352;
+}
+#bottom
+{
+	background-color: black;
+	position: fixed;
+	top: 570px;
+	font-size: 50px;
+	color: white;
+	width: 1350px;
+}
+#sedan1
+{
+	width: 600px;
+	position: fixed;
+	top: 180px;
+	left: 0px;
+	border: 5px solid black;
+	padding: 10px;
+	margin: 20px;
+
+}
+#sedan2
+{
+	width: 600px;
+	position: fixed;
+	top: 180px;
+	right: 0px;
+	border: 5px solid black;
+	padding: 10px;
+	margin: 20px;
+
+}
+#hatchback1
+{
+	width: 600px;
+	position: fixed;
+	top: 180px;
+	left: 0px;
+	border: 5px solid black;
+	padding: 10px;
+	margin: 20px;
+}
+#hatchback2
+{
+	width: 600px;
+	position: fixed;
+	top: 180px;
+	right: 0px;
+	border: 5px solid black;
+	padding: 10px;
+	margin: 20px;
+}
+#suv1
+{
+    width: 600px;
+	position: fixed;
+	top: 180px;
+	left: 0px;
+	border: 5px solid black;
+	padding: 10px;
+	margin: 20px;	
+}
+#suv2
+{
+	width: 600px;
+	position: fixed;
+	top: 180px;
+	right: 0px;
+	border: 5px solid black;
+	padding: 10px;
+	margin: 20px;
+}
